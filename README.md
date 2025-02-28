@@ -1,6 +1,6 @@
 ## About me 🍎
 
-Hello! My name is **Elias Maciel**. I am a student of **Applied and Computational Mathematics** and I work as a **Quantitative Developer (Quant Dev)**.  
+Hello! My name is **Elias Maciel**. I am a student of **Applied and Computational Mathematics** and I work as a **Quantitative Developer**.  
 I have a strong interest in **mathematical modeling** and **quantitative solutions** for the financial market.  
 I am always seeking to improve my skills, exploring new tools, programming languages, and innovative approaches to tackle complex problems.
 
