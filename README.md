@@ -10,7 +10,7 @@ I am always seeking to improve my skills, exploring new tools, programming langu
 
 - [XP Inc.](https://www.xpi.com.br) – Market risk quant developer, working on risk modeling and financial systems.
 - [Santander](https://www.santander.com.br) – Intern in the market risk area, focusing on quantitative models and automation.
-- [Fdervis](https://fderivs.com/) – Assistant quantitative developer, working on structured financial products and pricing models.
+- [Fderivs](https://fderivs.com/) – Assistant quantitative developer, working on structured financial products and pricing models.
 
 ---
 
@@ -42,13 +42,13 @@ Here are some projects (or areas of study) I have explored and plan to share in 
 
 In my daily routine, I work with a variety of programming languages and frameworks, including:
 
-- **Python** (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, etc.)  
-- **Golang** (backend development, high-performance computing, and concurrent programming)  
-- **C++** (for high-performance solutions, when needed)  
-- **Git/GitHub** (version control and collaboration)  
-- **Docker** (application containerization)  
-- **LaTeX** (for technical reports and articles)  
-- **SQL** (database manipulation and queries)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white): (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, etc.)  
+- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white): (backend development, high-performance computing, and concurrent programming)  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white): (for high-performance solutions, when needed)  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white):(version control and collaboration)  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white): (application containerization)  
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white): (for technical reports and articles)  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white): (database manipulation and queries)  
 
 I am always open to learning new technologies that can add value to my quantitative analysis projects.
 
@@ -58,9 +58,9 @@ I am always open to learning new technologies that can add value to my quantitat
 
 If you want to exchange ideas, collaborate on projects, or simply chat about quantitative finance, mathematics, or programming, feel free to reach out:
 
-- **LinkedIn**: [https://www.linkedin.com/in/elias-maciel/](#)
-- **GitHub**: [https://github.com/elias-maciel](#)
-- **Email**: [eliasfsilvamaciel@usp.br](mailto:eliasfsilvamaciel@usp.br)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white): [https://www.linkedin.com/in/elias-maciel/](#)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white): [https://github.com/elias-maciel](#)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white): [eliasfsilvamaciel@usp.br](mailto:eliasfsilvamaciel@usp.br)
 
 ---
 
