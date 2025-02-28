@@ -8,9 +8,9 @@ I am always seeking to improve my skills, exploring new tools, programming langu
 
 ## Companies I've Worked At
 
-- [XP Inc.](https://www.xpi.com.br) – Market risk quant developer, working on risk modeling and financial systems.
+- [XP Inc.](https://www.xpi.com.br) – Market risk analyst and quant developer, working on risk modeling and financial systems.
 - [Santander](https://www.santander.com.br) – Intern in the market risk area, focusing on quantitative models and automation.
-- [Fderivs](https://fderivs.com/) – Assistant quantitative developer, working on structured financial products and pricing models.
+- [Fderivs](https://fderivs.com/) – Assistant quantitative analyst, working on structured financial products and pricing models.
 
 ---
 
