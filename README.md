@@ -48,7 +48,7 @@ In my daily routine, I work with a variety of programming languages and framewor
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white):(version control and collaboration)  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white): (application containerization)  
 - ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white): (for technical reports and articles)  
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white): (database manipulation and queries)  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlserver&logoColor=white): (database manipulation and queries)  
 
 I am always open to learning new technologies that can add value to my quantitative analysis projects.
 
