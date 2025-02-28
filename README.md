@@ -1,21 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I'm+Elias+Maciel;Quant+Dev+and+Mathematician;Trying+to+be+a+Full+Cycle+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## About me 🍎
 
+Hello! My name is **Elias Maciel**. I am a student of **Applied and Computational Mathematics** and I work as a **Quantitative Developer (Quant Dev)**.  
+I have a strong interest in **mathematical modeling** and **quantitative solutions** for the financial market.  
+I am always seeking to improve my skills, exploring new tools, programming languages, and innovative approaches to tackle complex problems.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elias-maciel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Elias Maciel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-maciel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elias-maciel&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Projects and Studies
+
+Here are some projects (or areas of study) I have explored and plan to share in the future:
+
+1. **Risk Modeling**  
+   - Risk analysis in investment portfolios using Value at Risk (VaR) and Expected Shortfall.  
+   - Statistical and computational methods to quantify uncertainties.
+
+2. **Algorithmic Trading Strategies**  
+   - Development of automated trading strategies.  
+   - Robustness testing, parameter optimization, and performance backtesting.
+
+3. **Time Series Analysis**  
+   - Application of ARIMA, GARCH, Prophet, and other models for price and volatility forecasting.  
+   - Evaluation of various error metrics and construction of probabilistic scenarios.
+
+4. **Statistics and Machine Learning**  
+   - Application of regression, classification, and clustering methods to everyday problems.  
+   - Utilization of libraries such as **scikit-learn**, **TensorFlow**, or **PyTorch** for machine learning solutions.
+
+> *I plan to add repositories with practical examples and tutorials on these topics soon.*
+
+---
+
+## Tech Stack
+
+In my daily routine, I use a variety of languages and frameworks, including:
+
+- **Python** (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, etc.)
+- **C++** (for high-performance solutions, when needed)
+- **Git/GitHub** (version control and collaboration)
+- **Docker** (application containerization)
+- **LaTeX** (for technical reports and articles)
+- **SQL** (database manipulation and queries)
+
+I am always open to learning new technologies that can add value to my quantitative analysis projects.
+
+---
+
+## Contact and Networking
+
+If you want to exchange ideas, collaborate on projects, or simply chat about quantitative finance, mathematics, or programming, feel free to reach out:
+
+- **LinkedIn**: [https://www.linkedin.com/in/elias-maciel/](#)
+- **GitHub**: [https://github.com/elias-maciel](#)
+- **Email**: [eliasfsilvamaciel@usp.br](mailto:youremail@example.com)
+
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elias-maciel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  Made with ❤ and a deep curiosity for a quantitative world world!
 </p>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/elias-maciel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
