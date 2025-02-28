@@ -6,6 +6,14 @@ I am always seeking to improve my skills, exploring new tools, programming langu
 
 ---
 
+## Companies I've Worked At
+
+- [XP Inc.](https://www.xpi.com.br) – Market risk quant developer, working on risk modeling and financial systems.
+- [Santander](https://www.santander.com.br) – Intern in the market risk area, focusing on quantitative models and automation.
+- [Fdervis](https://fderivs.com/) – Assistant quantitative developer, working on structured financial products and pricing models.
+
+---
+
 ## Projects and Studies
 
 Here are some projects (or areas of study) I have explored and plan to share in the future:
@@ -32,14 +40,15 @@ Here are some projects (or areas of study) I have explored and plan to share in 
 
 ## Tech Stack
 
-In my daily routine, I use a variety of languages and frameworks, including:
+In my daily routine, I work with a variety of programming languages and frameworks, including:
 
-- **Python** (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, etc.)
-- **C++** (for high-performance solutions, when needed)
-- **Git/GitHub** (version control and collaboration)
-- **Docker** (application containerization)
-- **LaTeX** (for technical reports and articles)
-- **SQL** (database manipulation and queries)
+- **Python** (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, etc.)  
+- **Golang** (backend development, high-performance computing, and concurrent programming)  
+- **C++** (for high-performance solutions, when needed)  
+- **Git/GitHub** (version control and collaboration)  
+- **Docker** (application containerization)  
+- **LaTeX** (for technical reports and articles)  
+- **SQL** (database manipulation and queries)  
 
 I am always open to learning new technologies that can add value to my quantitative analysis projects.
 
@@ -51,10 +60,10 @@ If you want to exchange ideas, collaborate on projects, or simply chat about qua
 
 - **LinkedIn**: [https://www.linkedin.com/in/elias-maciel/](#)
 - **GitHub**: [https://github.com/elias-maciel](#)
-- **Email**: [eliasfsilvamaciel@usp.br](mailto:youremail@example.com)
+- **Email**: [eliasfsilvamaciel@usp.br](mailto:eliasfsilvamaciel@usp.br)
 
 ---
 
 <p align="center">
-  Made with ❤ and a deep curiosity for a quantitative world world!
+  Made with ❤ and a deep curiosity for a quantitative world!
 </p>
