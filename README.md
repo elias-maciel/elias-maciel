@@ -40,7 +40,7 @@ Here are some projects (or areas of study) I have explored and plan to share in 
 
 ## Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-maciel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=elias-maciel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 
 
 In my daily routine, I work with a variety of programming languages and frameworks, including:
